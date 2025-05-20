@@ -6,6 +6,8 @@
 
 ## Table of contents
 
+NIKITA YOGI
+
 * [Installation](#Installation)
 * [Features](#Features)
 * [Docs & Community](#docs--community)
